@@ -1,5 +1,8 @@
 ### Hi, I'm Manuel Valdez, a Electronic Engineer really passionate and focused on the cybersecurity field (WebApp Security, Network Security, CTFs) from Venezuela 🇻🇪
 
+<a href="https://twitter.com/saurinn_">
+  <img align="right" alt="saurinn_ | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+
 ```js
 const saurinn = {
   code = [Python, Bash],
