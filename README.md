@@ -3,6 +3,9 @@
 <a href="https://twitter.com/saurinn_">
   <img align="right" alt="saurinn_ | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 
+## About me:
+  
+
 ```js
 const saurinn = {
   code = [Python, Bash],
