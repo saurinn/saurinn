@@ -1,5 +1,9 @@
 ### Hi, I'm Manuel🐱‍👤 👋
 
+You can find me on🌐:
+- [Twitter](https://twitter.com/saurinn_)
+- [Linkedin](https:/www.linkedin.com/in/mjvaldez)
+
 
 **saurinn/saurinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
