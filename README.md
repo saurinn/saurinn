@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manuel Valdez</h1>
-<h3 align="center">A passionate Electronic Engineer focused on Cybersecurity from Venezuela <img src='PNG/VE@2x.png?raw=true' width='21' height='15'> </h3>
+<h3 align="center">A passionate Electronic Engineer from Venezuela <img src='https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/VE%402x.png' width='21' height='15'> focused on the Cybersecurity field </h3>
+
 
 <p align="left"> <a href="https://twitter.com/saurinn_" target="blank"><img src="https://img.shields.io/twitter/follow/saurinn_?logo=twitter&style=for-the-badge" alt="saurinn_" /></a> </p>
 
-- 🔭 I’m currently working on **Write-ups, CTFs, python snippets**
+- 🔭 I’m currently working on **Write-ups, CTFs (TryHackMe), Bug Bounty and useful Python snippets**
 
 - 💬 Ask me about **Bash, Python, BurpSuite, Metasploit, nmap, VirtualBox, gobuster, sqlmap, mimikatz, impacket, rubeus, and anything related to the Infosec/Pentesting field**
 
@@ -18,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurinn&show_icons=true&locale=en&layout=compact" alt="saurinn" /></p>
+
 
 
 
