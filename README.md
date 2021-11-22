@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/saurinn_" target="blank"><img src="https://img.shields.io/twitter/follow/saurinn_?logo=twitter&style=for-the-badge" alt="saurinn_" /></a> </p>
 
-- 🔭 I’m currently working on **Write-ups, CTFs (TryHackMe), Bug Bounty and useful Python snippets**
+- 🔭 I’m currently working on **Write-ups, CTFs (TryHackMe), Bug Bounty and some useful Python snippets**
 
 - 💬 Ask me about **Bash, Python, BurpSuite, Metasploit, nmap, VirtualBox, gobuster, sqlmap, mimikatz, impacket, rubeus, and anything related to the Infosec/Pentesting field**
 
