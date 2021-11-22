@@ -1,7 +1,6 @@
 ### Hi, I'm Manuel Valdez, a Electronic Engineer really passionate and focused on the cybersecurity field (WebApp Security, Network Security, CTFs) from Venezuela 🇻🇪
 
-<a href="https://twitter.com/saurinn_">
-  <img align="right" alt="saurinn_ | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  
 
 ## About me:
   
@@ -19,6 +18,9 @@ const saurinn = {
 You can find me on🌐:
 - [Twitter](https://twitter.com/saurinn_)
 - [Linkedin](https:/www.linkedin.com/in/mjvaldez)
+
+<a href="https://twitter.com/saurinn_">
+  <img align="right" alt="saurinn_ | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 
 <!--
 **saurinn/saurinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
