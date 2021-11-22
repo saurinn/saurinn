@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Write-ups, CTFs (TryHackMe), Bug Bounty and some useful Python snippets**
 
-- 💬 Ask me about **Bash, Python, BurpSuite, Metasploit, nmap, VirtualBox, gobuster, sqlmap, mimikatz, impacket, rubeus, and anything related to the Infosec/Pentesting field**
+- 💬 Ask me about **Bash, Python, BurpSuite, Metasploit, nmap, VirtualBox, gobuster, sqlmap, mimikatz, kerbrute, impacket, rubeus, and anything related to the Infosec/Pentesting field**
 
 - 📫 How to reach me **valdezgmanuel@gmail.com**
 
