@@ -1,4 +1,4 @@
-### Hi, I'm Manuel Valdez, a Electronic Engineer really passionate and focused on the cybersecurity field (WebApp Security, Network Security, CTFs) from Venezuela:venezuela:
+### Hi, I'm Manuel Valdez, a Electronic Engineer really passionate and focused on the cybersecurity field (WebApp Security, Network Security, CTFs) from Venezuela 🇻🇪
 
 ```js
 const saurinn = {
