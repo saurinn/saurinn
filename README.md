@@ -1,4 +1,4 @@
-### Hi, I'm Manuel Valdez, a passionate self-taught human beign that is really into about cybersecurity (WebApp Security, Network Security, CTFs)🐱‍👤 👋
+### Hi, I'm Manuel Valdez, a Electronic Engineer really passionate and focused on the cybersecurity field (WebApp Security, Network Security, CTFs) from Venezuela:venezuela:
 
 ```js
 const saurinn = {
