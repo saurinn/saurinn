@@ -1,5 +1,15 @@
 ### Hi, I'm Manuel🐱‍👤 👋
 
+```js
+const saurinn = {
+  code = [Python, Bash],
+  tools = [BurpSuite, nmap, Nessus, Metasploit, gobuster, dirb, nuclei, nikto, mimikatz, etc...],
+  platforms = [Kali, Ubuntu, Windows, VMware, VirtualBox],
+}
+```
+
+
+
 You can find me on🌐:
 - [Twitter](https://twitter.com/saurinn_)
 - [Linkedin](https:/www.linkedin.com/in/mjvaldez)
