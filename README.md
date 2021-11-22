@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manuel Valdez</h1>
-<h3 align="center">A passionate Electronic Engineer focused on Cybersecurity from Venezuela</h3>
+<h3 align="center">A passionate Electronic Engineer focused on Cybersecurity from Venezuela <img src='PNG/VE@2x.png?raw=true' width='21' height='15'> </h3>
 
 <p align="left"> <a href="https://twitter.com/saurinn_" target="blank"><img src="https://img.shields.io/twitter/follow/saurinn_?logo=twitter&style=for-the-badge" alt="saurinn_" /></a> </p>
 
-- 🔭 I’m currently working on **Write-ups, python snippets**
+- 🔭 I’m currently working on **Write-ups, CTFs, python snippets**
 
-- 💬 Ask me about **Bash, Python, BurpSuite, Metasploit, nmap, VirtualBox, gobuster, sqlmap, mimikatz, impacket, rubeus**
+- 💬 Ask me about **Bash, Python, BurpSuite, Metasploit, nmap, VirtualBox, gobuster, sqlmap, mimikatz, impacket, rubeus, and anything related to the Infosec/Pentesting field**
 
 - 📫 How to reach me **valdezgmanuel@gmail.com**
 
