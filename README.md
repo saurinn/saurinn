@@ -1,4 +1,4 @@
-### Hi, I'm Manuel🐱‍👤 👋
+### Hi, I'm Manuel Valdez, a passionate self-taught human beign that is really into about cybersecurity (WebApp Security, Network Security, CTFs)🐱‍👤 👋
 
 ```js
 const saurinn = {
